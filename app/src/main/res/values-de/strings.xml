@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bienvenido">Willkommen</string>
+    <string name="entrar">Betreten</string>
+    <string name="app_name">Meine Bewerbung</string>
+</resources>
